@@ -1,5 +1,5 @@
 ### Hello World 👋
-#### Here you can find a list of personal repositories/resources concerning NatSystem
+#### This is a personal collection of repositories/resources
 ##### Feel free to test, use or modify whatever... and remember: nothing is BUG-free here :)
 
 - [Syrenad Extension for Chrome](https://github.com/afenicio/syrenad-extension "Syrenad Extension for Chrome")
