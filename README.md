@@ -1,6 +1,6 @@
 ### Hello World 👋
-#### Here you can find a list of personal repositories concerning NatSystem
-##### Feel free to test, use or modify whatever... and remember that nothing is BUG-free here :)
+#### Here you can find a list of personal repositories/resources concerning NatSystem
+##### Feel free to test, use or modify whatever... and remember: nothing is BUG-free here :)
 
 - [Syrenad Extension for Chrome](https://github.com/afenicio/syrenad-extension "Syrenad Extension for Chrome")
 - AutoHotKeys for Syrenad (Not Yet Available)
