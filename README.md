@@ -3,7 +3,7 @@
 ##### Feel free to test, use or modify whatever... and remember: nothing is BUG-free here :)
 
 - [Syrenad Extension for Chrome](https://github.com/afenicio/syrenad-extension "Syrenad Extension for Chrome")
-- AutoHotKeys for Syrenad (Not Yet Available)
+- [Utilities for NatSystem](https://github.com/afenicio/nat-utility "Utilities for NatSystem")
 <!--
 **afenicio/afenicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
